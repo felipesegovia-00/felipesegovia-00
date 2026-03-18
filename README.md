@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Felipe 👋
 
-<!--
-**felipesegovia-00/felipesegovia-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cientista Político | Estudiante del bootcamp de Generation 💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ ¿Quién soy?
+Soy un profesional de la **Ciencia Política (UDP)** con un **Diplomado en Data Science**. 
+Actualmente me encuentro en formación intensiva en **Generation Chile**, donde estoy integrando mi experiencia en análisis estadístico con las bases sólidas para convertirme en **Desarrollador Fullstack Java**.
+
+## 🎓 Formación
+- **Bootcamp Fullstack Java** - Generation Chile (En curso)
+- **Diplomado en Data Science para Ciencias Sociales**
+- **Cientista Político** - Universidad Diego Portales
+
+## 📖 Tecnologías que estoy aprendiendo
+- **Frontend:** HTML5, CSS3, JavaScript.
+- **Backend:** Java.
+- **Herramientas:** Git, GitHub.
+- **Análisis:** R (Avanzado) y Excel Avanzado.
+
+## 🎯 Objetivo
+Seguir creciendo en el ecosistema tecnológico, crear proyectos que optimicen la toma de decisiones basada en datos y construir una carrera sólida en **GovTech** y desarrollo web.
+
+## 🔥 Motivación
+- Cada error en la consola me enseña lógica.
+- Cada script en R me mejora el análisis.
+- Con todas mis imperfeciones lograre lo que quiero, me lo juró Dieguito Maradonna.
+
+## ✨ Frase personal
+**"El código, al igual que las políticas públicas, no solo se escribe: se construye con datos, lógica y un propósito social claro."** 🛠️📊
+
+
