@@ -25,7 +25,7 @@ Seguir creciendo en el ecosistema tecnológico, crear proyectos que optimicen la
 ## 🔥 Motivación
 - Cada error en la consola me enseña lógica.
 - Cada script en R me mejora el análisis.
-- Con todas mis imperfeciones lograre lo que quiero, me lo juró Dieguito Maradonna.
+- Con todas mis imperfeciones lograre lo que quiero, me lo juró Dieguito Maradona.
 
 ## ✨ Frase personal
 **"El código, al igual que las políticas públicas, no solo se escribe: se construye con datos, lógica y un propósito social claro."** 🛠️📊
